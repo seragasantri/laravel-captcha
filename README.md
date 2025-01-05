@@ -1,4 +1,4 @@
-<img width="1710" alt="Tangkapan Layar 2025-01-05 pukul 21 33 32" src="https://github.com/user-attachments/assets/a8c33139-5709-4a0d-8c79-14ee6fa31afb" /><img width="1710" alt="Tangkapan Layar 2025-01-05 pukul 21 33 32" src="https://github.com/user-attachments/assets/7809feed-f09c-45d3-af38-ed1a7fc6b130" /># Laravel Captcha Application by Seraga Santri
+# Laravel Captcha Application by Seraga Santri
 
 This application uses **Laravel version 11** with a minimum **PHP version of 8.2**.
 
